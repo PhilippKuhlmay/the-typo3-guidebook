@@ -1,0 +1,118 @@
+"7 Reasons for an Independent TYPO3 Project Review." TYPO3. https://typo3.com/blog/7-reasons-for-an-independent-project-review/
+"A High Performance Open Source MySQL Proxy." ProxySQL. July 08, 2020. https://www.proxysql.com/
+"A New Structure for the TYPO3 Core Team." July 25, 2018. https://typo3.org/article/a-new-structure-for-the-typo3-core-team/
+"APC User Cache." Php. https://www.php.net/manual/en/book.apcu.php.
+"Backup Strategy." TYPO3 Documentation. May 12, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Backups/Index.html
+"Basics." TYPO3 Documentation. June 27, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/Basics.html
+"Beech.it - Pragmatic Value and Partnership - TYPO3 GmbH." TYPO3. https://typo3.com/blog/beechit-pragmatic-value-and-partnership-typo3-gmbh
+"Build Blazingly Fast, Flexible Websites." Download TYPO3 - Get.typo3.org. http://typo3.org/download/
+"Build Your Own Upgrade Wizard." Events Site. August 02, 2019. https://t3dd19.typo3.com/program/sessions/build-your-own-upgrade-wizard-27
+"Caching Framework." TYPO3 Documentation. May 12, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/CachingFramework/Index.html
+"Ceph File System." Ceph File System - Ceph Documentation. https://docs.ceph.com/docs/master/cephfs/
+"Content Delivery Network." Wikipedia. June 24, 2020. https://en.wikipedia.org/wiki/Content_delivery_network
+"Contribution, Flexibility, Sustainability in TYPO3 - Meet Helmut Hummel." TYPO3. https://typo3.com/blog/contribution-flexibility-sustainability-in-typo3-meet-helmut-hummel
+"Cybercraft Media Manufactory - an Agency Supporting Other Agencies." TYPO3. https://typo3.com/blog/cybercraft-media-manufactory-an-agency-supporting-other-agencies/.
+"Detect, Analyze and Repair a Hacked Site." TYPO3 Documentation. October 12, 2018. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/HackedSite/Index.html
+"Detect a Hacked Website." TYPO3 Documentation. June 21, 2016. https://docs.typo3.org/m/typo3/guide-security/8.7/en-us/HackedSite/Detect/Index.html
+"Development Environments for Drupal with DDEV." Development Environments for Drupal with DDEV. https://davidjguru.github.io/blog/creating-development-environments-for-drupal-with-ddev
+"Did You Know ... ?" Use TYPO3. July 11, 2020. https://usetypo3.com/did-you-know.html
+"Do You Know the Technical Condition of Your TYPO3 Website?" TYPO3. https://typo3.com/blog/do-you-know-the-technical-condition-of-your-typo3-website
+"Embrace and Innovate - TYPO3 CMS 7." November 02, 2014. https://typo3.org/article/embrace-and-innovate-typo3-cms-7/
+"Enhanced and Secure Content Management." https://typo3.org/cms/features/secure-performant-scalable/
+"Essential Solutions for TYPO3 Productivity [Part 1]." Events Site. August 02, 2019. https://t3dd19.typo3.com/program/sessions/t3dd19-talk-part-1-essential-solutions-for-typo3-productivity-18
+"Frontend Localization Guide." TYPO3 Documentation. April 20, 2020. https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/Index.html
+"GDPR Initiative." https://typo3.org/community/teams/typo3-development/initiatives/gdpr/
+"GDPR - What You Need to Know." TYPO3. https://typo3.com/blog/gdpr-what-you-need-to-know
+"General Information." TYPO3 Documentation. October 12, 2018. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/GeneralInformation/Index.html
+"Guidelines for System Administrators." TYPO3 Documentation. May 11, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/GuidelinesAdministrators/Index.html
+"How Do You Know When It's Time to Upgrade?" TYPO3. https://typo3.com/blog/how-do-you-know-when-its-time-to-upgrade
+"How to Make Your TYPO3 Application GDPR Compliant." TYPO3. https://typo3.com/blog/how-to-make-your-typo3-application-gdpr-compliant
+"Improving Performance with the Paint Timing API." SitePen. January 28, 2020. https://www.sitepen.com/blog/improving-performance-with-the-paint-timing-api/
+"Incident Handling." https://typo3.org/community/teams/security/incident-handling/
+"In-Depth Project Review." TYPO3. https://typo3.com/services/project-reviews/in-depth-project-review/
+"Issues You Might Run Into When Upgrading TYPO3 Extensions." TYPO3. https://typo3.com/blog/issues-you-might-run-into-when-upgrading-typo3-extensions/
+"IT Security Laws in Europe Get Serious." TYPO3. https://typo3.com/blog/it-security-laws-in-europe-get-serious/
+"Kubernetes X TYPO3." Events Site. August 04, 2019. https://t3dd19.typo3.com/program/sessions/kubernetes-x-typo3-10
+"Language Handling in TYPO3 - Part 1: Backend: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. June 21, 2017. https://typo3worx.eu/2017/04/language-handling-in-typo3-backend-configuration/
+"Localization Modes." TYPO3 Documentation. August 11, 2019. https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/LocalizationModes/Index.html
+"Local to Live Deployment for a TYPO3 Beginner Public Copy." Google Slides. https://docs.google.com/presentation/d/1znbgTST0Gh2W85vN1JUfWuOVDKss6H7qs5d4bzMtXCY/edit#slide=id.p1
+"Maintenance Releases." https://typo3.org/cms/roadmap/maintenance-releases/
+"Master Challenging TYPO3 Upgrade Projects: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. December 01, 2018. https://typo3worx.eu/2018/12/master-challenging-typo3-upgrade-projects/
+"MaxServ Leverages the Roadmap with a TYPO3 GmbH Partnership: TYPO3 GmbH." TYPO3. https://typo3.in/blog/maxserv-leverages-the-roadmap-with-a-typo3-gmbh-partnership
+"MaxServ Leverages the Roadmap with a TYPO3 GmbH Partnership." TYPO3. https://typo3.com/blog/maxserv-leverages-the-roadmap-with-a-typo3-gmbh-partnership
+"More Breathing Space With ELTS." TYPO3. https://typo3.com/products/extended-support
+"Multilingual and Multisite with TYPO3." https://typo3.org/cms/features/massively-multisite-multilingual
+"Official TYPO3 Partner Finder: TYPO3 GmbH." TYPO3. https://typo3.com/services/find-a-typo3-partner
+"Percona XtraDB Cluster – The MySQL Clustering Solution." Percona. https://www.percona.com/software/mysql-database/percona-xtradb-cluster
+"Performance Tuning." Performance Tuning - TYPO3Wiki. https://wiki.typo3.org/Performance_tuning
+"Prioritizing Your Resources with Link Rel='preload'  |  Web." Google. https://developers.google.com/web/updates/2016/03/link-rel-preload
+"Privacy by Design." General Data Protection Regulation (GDPR). July 14, 2020. https://gdpr-info.eu/issues/privacy-by-design/
+"Production-Grade Container Orchestration." Kubernetes. https://kubernetes.io/
+"Project Reviews." TYPO3. https://typo3.com/services/project-reviews/
+"Reasons to Invest in a TYPO3 Project Review." TYPO3. https://typo3.com/blog/reasons-to-invest-in-a-typo3-project-review
+"Security Advisories." July 07, 2020. https://typo3.org/help/security-advisories/
+"Security Guidelines." TYPO3 Documentation. October 12, 2018. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Index.html
+"Security Team Reboot." April 11, 2019. https://typo3.org/article/security-team-reboot/
+"Service Level Agreements." TYPO3. https://typo3.com/services/service-level-agreements
+"System Requirements." TYPO3 Documentation. March 21, 2020. https://docs.typo3.org/m/typo3/guide-installation/master/en-us/In-depth/SystemRequirements/Index.html
+"T3DD19 Part 1 - Essential Solutions for TYPO3 Productivity: By Sanjay Chuahan (NITSAN)." Google Slides. https://docs.google.com/presentation/d/1mxyJByjKuZ-Zr7bminJ7nflnGa8t-ytbtF8luM-765M/edit#slide=id.g5de5408a8b_0_244
+"The Best Open Source Multisite CMS." TYPO3. https://typo3.com/blog/typo3-the-best-open-source-multisite-cms
+"The New Faces Behind TYPO3 Core Development." March 13, 2019. https://typo3.org/article/the-new-faces-behind-typo3-core-development/
+"The Security Team." https://typo3.org/community/teams/security/
+"The TYPO3 Association." June 23, 2020. https://typo3.org/project/association/
+"The TYPO3 Extbase Book-Interview with the Author." August 09, 2019. https://typo3.org/article/the-typo3-extbase-book-interview-with-the-author/
+"Things TYPO3 GmbH Does NOT Do." TYPO3. https://typo3.com/company/what-we-dont-do
+TYPO3. 2019. “Essential Solutions for TYPO3 Productivity - Part 1 @ TYPO3 Developer Days 2019.” YouTube Video. YouTube. https://www.youtube.com/watch?v=EiIKz-wK6z8
+TYPO3. 2019. “Build Your Own Upgrade Wizard @ TYPO3 Developer Days 2019.” YouTube Video. YouTube. https://www.youtube.com/watch?v=gEVUfi5hfXQ
+"TYPO3 10 LTS (10.4.5)." Download TYPO3 10.4.5. https://get.typo3.org/version/10#system-requirements
+"Typo3 CDN Integration - KeyCDN Support." KeyCDN. https://www.keycdn.com/support/typo3-cdn-integration
+"TYPO3 CMS and Higher Educational Institutions - a Success Story." TYPO3. https://typo3.com/blog/typo3-cms-and-higher-educational-institutions-a-success-story
+"TYPO3 CMS Development Roadmap." Development Roadmap for TYPO3 CMS. https://typo3.org/cms/roadmap/
+"TYPO3 CMS Explained for the System Admin: TYPO3 GmbH." TYPO3. https://typo3.com/typo3-cms-explained-for-the-sysadmin
+"TYPO3 Delivers Great Performance." TYPO3. https://typo3.com/blog/typo3-delivers-great-performance
+"TYPO3 Extension Security Policy Version 1.0." https://typo3.org/community/teams/security/extension-security-policy/
+"TYPO3 Open Source CMS and GDPR - Meet Georg Ringer." TYPO3. https://typo3.com/blog/typo3-open-source-cms-and-gdpr-meet-georg-ringer/
+"TYPO3 Partner Program Registration." TYPO3. https://typo3.com/services/become-a-partner/typo3-partner-program-registration
+"TYPO3 Performance :: Tools and Overview: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. April 30, 2018. https://typo3worx.eu/2017/10/typo3-performance-introduction/
+"TYPO3 Performance: Asset Delivery and Caching: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. April 30, 2018. https://typo3worx.eu/2017/11/typo3-performance-asset-delivery-caching/
+"TYPO3 Performance - Caching, TypoScript and More: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. April 30, 2018. https://typo3worx.eu/2018/02/typo3-performance-caching-typoscript/
+"TYPO3 Performance-Optimierung Durch CDN." Clickstorm. November 03, 2017. https://www.clickstorm.de/blog/typo3-performance-optimierung-mit-cs_cdn/
+"TYPO3 Performance - TYPO3 CMS and Extensions: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. August 09, 2018. https://typo3worx.eu/2018/08/typo3-performance-typo3-cms-extensions/
+"TYPO3 Release Improvements & V8 Maintenance Release Schedule." June 30, 2017. https://typo3.org/article/typo3-release-improvements-v8-maintenance-release-schedule/
+"TYPO3 V9's New Extension Scanner Makes Planning Upgrades Easier." TYPO3. https://typo3.com/blog/typo3-v9s-new-extension-scanner-makes-planning-upgrades-easier
+"Updating TYPO3 Projects." Use TYPO3. July 11, 2020. https://usetypo3.com/upgrading-projects.html
+"Upgrade." TYPO3 Documentation. April 08, 2020. https://docs.typo3.org/m/typo3/guide-installation/master/en-us/Upgrade/Index.html
+"Use the Upgrade Wizard." TYPO3 Documentation. September 27, 2019. https://docs.typo3.org/m/typo3/guide-installation/master/en-us/Upgrade/UseTheUpgradeWizard/Index.html
+"What Is MariaDB Galera Cluster?" MariaDB KnowledgeBase. https://mariadb.com/kb/en/library/what-is-mariadb-galera-cluster
+"What Is Prefetching and Why Use It - KeyCDN Support." KeyCDN. https://www.keycdn.com/support/prefetching
+"What Is Privacy by Design & Default?" Irish Computer Society 50th! https://www.ics.ie/news/what-is-privacy-by-design-a-default
+"X Marks the Spot - TYPO3 V10.0 Is Here." July 23, 2019. https://typo3.org/article/x-marks-the-spot-typo3-v10-0-is-here
+Alex Kellner. "TYPO3 Migration in Komplexen Upgrade- Und Relaunch-Projekten." LinkedIn SlideShare. September 15, 2018. https://www.slideshare.net/einpraegsam/typo3-migration-in-komplexen-upgrade-und-relaunchprojekten-114716116
+Antoniou, Laura. "Marketplace." Amazon. 2015. https://aws.amazon.com/marketplace/pp/schamsnet-TYPO3-CMS-8x/B01DO8DF2E
+Blackfire. "Performance ." Blackfire.io. https://blackfire.io/
+BlcknxBlcknx 1, and Rudy GnoddeRudy Gnodde 2. "What Is the TYPO3 Reference Index and Why Can It Contain Outdated Values?" Stack Overflow. June 01, 1968. https://stackoverflow.com/questions/53796965/what-is-the-typo3-reference-index-and-why-can-it-contain-outdated-values
+Bslatkin. "Bslatkin/dpxdt." GitHub. https://github.com/bslatkin/dpxdt
+Coders.care. "We Care for Coders, Our Coders Care for You." Coders.care. https://coders.care/
+Daniel Siepmann. “TYPO3 Content Caching”. https://daniel-siepmann.de/Posts/2019/2019-01-04-typo3-content-caching.html
+DigitalOcean. "Using a CDN to Speed Up Static Content Delivery." DigitalOcean. August 06, 2018. https://www.digitalocean.com/community/tutorials/using-a-cdn-to-speed-up-static-content-delivery
+Doc-Core-Insight. "TYPO3 Upgrades from Command Line." Doc_core_insight. June 26, 2017. https://insight.helhum.io/post/162277469210/typo3-upgrades-from-command-line
+Dormando. "A Distributed Memory Object Caching System." Memcached. https://memcached.org/
+Drud. "Drud/sig-cms." GitHub. https://github.com/drud/sig-cms
+Eberhard, Moritz, and Moritz Eberhard. "AWS and Typo3: Hosting, Deployment and Cont. Integration." Meberhard. December 11, 2014. http://meberhard.me/amazon-web-service-aws-typo3-hosting-deployment-methods-continuous-integration/
+Einpraegsam. "Einpraegsam/migration." GitHub. https://github.com/einpraegsam/migration
+Elmar, and Elmar. "Elp's Blog." Elps Blog. January 16, 2015. http://www.elp.co.at/2015/01/16/migration-from-typo3-4-5-4-6-4-7-to-typo3-6-2-lts-1/
+Hemert, Jigal Van. "Build Your Own Upgrade Wizard." LinkedIn SlideShare. August 05, 2019. https://www.slideshare.net/JigalvanHemert/build-your-own-upgrade-wizard
+India, Spec. "Kubernetes in DevOps Space: Everything You Need To Know." Medium. July 16, 2019. https://medium.com/faun/kubernetes-in-devops-space-everything-you-need-to-know-6ac3c94f12df
+Hasenau, Jo. "Service Level Agreements for TYPO3 Extensions." Coders.care. https://coders.care/blog/article/service-level-agreements-for-typo3-extensions/
+Kott, Benjamin. “Reliable Open Industry.” https://drive.google.com/file/d/1ujHLObONKHuXJt3_aqNYnNV_CdxFmDVc/view
+Mack, Benni. "Cache Me If You Can-Insights into Frontend Caches in TYPO3." B13.com. https://b13.com/blog/caching-in-typo3-part-1-frontend-caches
+Moog, Susanne. "Download TYPO3 Partner Program Information and Subscribe to the Partner Newsletter: TYPO3 GmbH." TYPO3. https://typo3.com/download-typo3-partner-program-information-and-subscribe-to-the-partner-newsletter
+Nitsan. "How To Secure Your TYPO3 Sites From Hack Attempts?" TYPO3 Agency. May 01, 2019. https://www.nitsan.in/blog/how-to-secure-your-typo3-sites-from-hack-attempts/
+Nitsan. "The Ultimate Guide to TYPO3 Update/Upgrade." TYPO3 Update/Upgrade: The Ultimate Guide for TYPO3 Developers. February 14, 2019. https://www.nitsan.in/blog/typo3-update-upgrade/
+Pandya, T3:Keval. "[NITSAN] TYPO3 Extensions Compatibility Report (ns_ext_compatibility)." April 16, 2020. https://extensions.typo3.org/extension/ns_ext_compatibility/
+Redis. https://redis.io/
+Ringer, Georg. "Georgringer/gdpr." GitHub. https://github.com/georgringer/gdpr
+Rviscomi, Eva2000, TeamUpDevelopment, Dawnieando, Riking, RKomen2609, Senormunoz, and J0udini. "CMS Performance." HTTP Archive. September 11, 2018. https://discuss.httparchive.org/t/cms-performance/1468
+Steiner, Andri. "Varnish Connector (varnish)." February 20, 2020. https://extensions.typo3.org/extension/varnish/
+Typo3tutorials.net. "Home." TYPO3tutorials.net. https://typo3tutorials.net/system/requirements/
+Well Contained: Running TYPO3 in Docker. https://www.martin-helmich.de/en/blog/typo3-cms-docker.html

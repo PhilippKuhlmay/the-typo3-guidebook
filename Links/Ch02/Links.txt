@@ -1,0 +1,62 @@
+"2.11 How to Create Categories." TYPO3manual.com. http://www.typo3manual.com/extension-manuals/news-module-typo3-version-7/2-create-new-news-article/211-how-to-create-categories/
+"2.2 Page Properties." TYPO3manual.com. https://www.typo3manual.com/typo3-version-8/2-create-and-edit-pages/22-page-properties/
+"2.6 Settings for Different Page Types." TYPO3manual.com. http://www.typo3manual.com/typo3-version-8/2-create-and-edit-pages/26-settings-for-different-page-types/
+"Achieving a State-of-the-art Backend Design for Neos." September 13, 2013. https://typo3.org/article/achieving-a-state-of-the-art-backend-design-for-neos
+"Atomic Design Methodology." Atomic Design by Brad Frost. https://atomicdesign.bradfrost.com/chapter-2/
+"Backend Interface." TYPO3 Documentation. April 09, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/BackendModules/Structure/Index.html
+"Best Practices: Style Guide Driven Development With TYPO3." TYPO3. https://typo3.com/blog/best-practices-style-guide-driven-development-with-typo3
+"Better Multilingual Support with Crowdin." September 23, 2019. https://typo3.org/article/better-multilingual-support-with-crowdin/
+"CMS Certified Editor 9 LTS." SkillDisplay. https://www.skilldisplay.eu/skillsets/cms-certified-editor-9-lts/
+"CMS Garden." TYPO3 | CMS Garden. January 01, 1970. https://www.cms-garden.org/en/cms/typo3-0
+"Content Elements." TYPO3 Documentation. September 13, 2016. https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/ContentElements/Index.html
+"Content Management, but Smart." https://typo3.org/cms/features/smart-content-management/
+"Creating a Custom Workspace." TYPO3 Documentation. April 18, 2020. https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/Administration/CustomWorkspace/Index.html
+"Deliver a Universal Frontend User Experience With TYPO3." https://typo3.org/cms/features/frontend-experience
+"Discover Website Templates with Toujou TYPO3." Discover Website Templates with Toujou TYPO3. January 03, 2020. https://www.toujou.de/en/templates/
+"Dummy News Article." Home: TYPO3 Template from Jweiland.net. April 16, 2020. https://typo3muster.de/en/index.html
+"English Syllabus for TYPO3 CMS Certified Editors." https://typo3.org/certification/editor/syllabus/syllabus-english/
+"EXT: L10nmgr." EXT: L10nmgr - L10nmgr 3.3.16 Documentation. March 20, 2018. https://docs.typo3.org/typo3cms/extensions/l10nmgr/stable/Manual/Index.html#what-does-it-do
+"Fluid - A Fast and Secure Template Engine." Fluid Template Engine. https://typo3.org/fluid
+"Fluid Guide." TYPO3 Documentation. May 11, 2018. https://docs.typo3.org/m/typo3/guide-extbasefluid/master/en-us/Fluid/Index.html
+"Four Hidden Gems Every TYPO3 Editor Should Know." Your TYPO3 CMS Partner. January 22, 2019. https://www.pixelant.net/blog/read/article/four-hidden-gems-every-typo3-editor-should-know/
+"Frequently Asked Questions (FAQ)." TYPO3 Documentation. May 07, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Internationalization/TranslationServer/Crowdin/Faq.html
+"General Backend Structure." TYPO3 Documentation. June 12, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/GeneralPrinciples/GeneralBackendStructure/Index.html
+"Home." T3kit. http://www.t3kit.com/
+"How to Create Custom Content Elements in TYPO3." B13.com. https://b13.com/blog/how-to-create-custom-content-elements-in-typo3
+"Internationalization and Localization." Internationalization and Localization - Inside TYPO3 CMS 8.7 Documentation. December 31, 2020. https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/CoreArchitecture/Localization/Index.html
+"Introduction." Introduction - Inside TYPO3 CMS 8.7 Documentation. December 31, 2020. https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/Introduction/Index.html#overview
+"Language Handling in TYPO3 - Part 1: Backend: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. June 21, 2017. https://typo3worx.eu/2017/04/language-handling-in-typo3-backend-configuration/
+"Localization with Crowdin Initiative." https://typo3.org/community/teams/typo3-development/initiatives/localization-with-crowdin/
+"Main: TYPO3 Translation Server." Main | TYPO3 Translation Server. https://translation.typo3.org/
+"Mod." TYPO3 Documentation. May 21, 2020. https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/PageTsconfig/Mod.html
+"Multidomain." Multidomain - TYPO3Wiki. https://wiki.typo3.org/Multidomain
+"Multilingual and Multisite with TYPO3." https://typo3.org/cms/features/massively-multisite-multilingual
+"Page Properties." TYPO3 Documentation. November 23, 2019. https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/Pages/PageProperties/Index.html
+"Page Tree." TYPO3 Documentation. June 25, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/GeneralPrinciples/PageTree/Index.html
+"Responsive Images with TYPO3 8.7." Sitegeist · Digitalagentur Aus Hamburg. https://sitegeist.de/blog/typo3-blog/responsive-images-with-typo3-8-7.html
+"Saving and Publishing Your WordPress Content." Easy WP Guide. December 23, 2019. https://easywpguide.com/wordpress-manual/adding-your-site-content/classic-editor/saving-and-publishing-content/
+"Seiteninhalt Direkt Im Frontend Bearbeiten." TYPO3. https://www.typo3-hilfe.eu/online-hilfe/seiteninhalt/frontend-editing/
+"SkillDisplay - Get Ready for the TYPO3 CMS Certified Editor Exam." TYPO3. https://typo3.com/blog/skilldisplay-get-ready-for-the-typo3-cms-certified-editor-exam
+"Streamline Translation with the TYPO3 Connector." Streamline Translation with the TYPO3 Connector. https://www.languagewire.com/en/news/the-new-typo3-connector
+"System Categories." TYPO3 Documentation. March 31, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Categories/Index.html
+"T3kit - A TYPO3 Template Package for Agencies." Pixelant. https://www.pixelant.net/typo3-cms/powerful-templates/
+"The Basics: Templating with Backend Layouts." Use TYPO3. July 11, 2020. https://usetypo3.com/backend-layouts.html
+"The Best Open Source Multisite CMS." TYPO3. https://typo3.com/blog/typo3-the-best-open-source-multisite-cms
+"The Toujou Element Library." Building Blocks for Your Content. February 19, 2020. https://www.toujou.de/en/service/element-library/
+"Translations." Translations - TYPO3Wiki. https://wiki.typo3.org/Translations
+"TYPO3 CMS Certified Editor (TCCE)." https://typo3.org/certification/editor/
+"TYPO3 CMS - Translation Project on Crowdin." Crowdin. https://crowdin.com/project/typo3-cms
+"TYPO3 Core Development - Strategic Initiatives." https://typo3.org/community/teams/typo3-development/initiatives/
+"TYPO3 Frontend Editor." Pixelant. https://www.pixelant.net/typo3-cms/extensions/frontend-editor/
+"TYPO3 - Mandantenfähigkeit Für Domains." TYPO3 Agentur Stuttgart. August 09, 2018. https://www.typo3werk.com/typo3-mandantenfaehigkeit-fuer-domains/
+"TYPO3 Multisite Mit Responsive Webdesign." Visual4. https://visual4.de/referenzen/typo3-multisite-mit-responsive-webdesign/
+"TYPO3 Site Management and Routing: TYPO3worx - "The" TYPO3 Blog." TYPO3worx. October 13, 2018. https://typo3worx.eu/2018/10/typo3-site-management-and-routing/
+"TYPO3 Version 10.3 - Almost There." February 25, 2020. https://typo3.org/article/typo3-version-103-almost-there
+"Understanding Coupled, Decoupled and Headless CMS Platforms." Brightspot. June 10, 2020. https://www.brightspot.com/blog/decoupled-cms-and-headless-cms-platforms
+"Workspaces." TYPO3 Documentation. October 28, 2018. https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/Administration/Workspaces/Index.html
+Hasenau, Jo. "Localizer for TYPO3 (localizer)." February 06, 2020. https://extensions.typo3.org/extension/localizer/
+House, Translate. "Multi-format Translation Tool." Virtaal. http://virtaal.translatehouse.org/index.html
+Mack, Benni. "Workflows with TYPO3 Workspaces 4.5." LinkedIn SlideShare. October 12, 2011. https://www.slideshare.net/bennim/workflows-with-typo3-workspaces-45
+Sitegeist. "Sitegeist/Sitegeist.Monocle." GitHub. https://github.com/sitegeist/Sitegeist.Monocle
+Skaarhoej, Kasper. "Localization Manager (l10nmgr)." January 13, 2020. https://extensions.typo3.org/extension/l10nmgr/
+Workflows and the Workbox. https://doc.sitecore.com/users/92/sitecore-experience-platform/en/workflows-and-the-workbox.html

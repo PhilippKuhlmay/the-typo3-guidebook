@@ -1,0 +1,50 @@
+Composer Helper. https://get.typo3.org/misc/composer/helper
+Desirée Lochner. "Creating TYPO3 Backend Usergroups Your Clients Will Love." B13.com. https://b13.com/blog/creating-typo3-backend-usergroups-your-clients-will-love
+"Backend User Management." TYPO3 Documentation. July 22, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/UserManagement/Index.html
+"Basic Concepts." TYPO3 Documentation. May 12, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Fal/Concepts/Index.html#fal-concepts
+"The Basics: Templating with Backend Layouts." Use TYPO3. July 11, 2020. https://usetypo3.com/backend-layouts.html
+"CLI with Symfony Console and TYPO3." Use TYPO3. July 11, 2020. https://usetypo3.com/typo3-and-cli.html
+"Coding Guidelines." TYPO3 Documentation. July 23, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/CodingGuidelines/Index.html
+"Coding Guidelines." TYPO3 Documentation. December 02, 2019. https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/a-CodingGuidelines/Index.html
+"Configuration Methods List." TYPO3 Documentation. January 12, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Configuration/ConfigurationMethods.html
+"Customization Examples." TYPO3 Documentation. June 24, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/ExtendingTca/Examples/Index.html
+"Developing TYPO3 Extensions with Extbase and Fluid." TYPO3 Documentation. April 21, 2020. https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/Index.html
+"Extbase Guide." TYPO3 Documentation. June 28, 2019. https://docs.typo3.org/m/typo3/guide-extbasefluid/master/en-us/Extbase/Index.html
+"Extbase Reference." TYPO3 Documentation. March 27, 2020. https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/b-ExtbaseReference/Index.html
+"Extension Development." TYPO3 Documentation. August 07, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Index.html
+"Extensions Development Kickstarter." Events Site. August 01, 2019. https://t3dd19.typo3.com/program/sessions/extensions-development-kickstarter-126.
+"Files and Locations." TYPO3 Documentation. March 25, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/FilesAndLocations/Index.html
+"Fluid - A Fast and Secure Template Engine." Fluid Template Engine. https://typo3.org/fluid
+"Fluid ViewHelper Documentation." TYPO3 Documentation. https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/Index.html
+"For Integrators." TYPO3 Documentation. June 12, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/NextSteps/Integrators/Index.html
+"Four Hidden Gems Every TYPO3 Editor Should Know." Your TYPO3 CMS Partner. January 22, 2019. https://www.pixelant.net/blog/read/article/four-hidden-gems-every-typo3-editor-should-know/
+"General Principles." TYPO3 Documentation. July 21, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/GeneralPrinciples/Index.html
+"Gnu.org."  [A GNU Head] . https://www.gnu.org/licenses/gpl-3.0.html
+"Good Practices in Extensions." Use TYPO3. July 11, 2020. https://usetypo3.com/good-practices-in-extensions.html
+"Good Practices in TYPO3 Projects." Use TYPO3. July 11, 2020. https://usetypo3.com/good-practices-in-projects.html
+Hacker News." Two More Quotes about This Subject: Jeff Atwood: "The Best Code Is No Code at All. | Hacker News. https://news.ycombinator.com/item?id=10979240
+Haen, Nico De. "Extension Builder (extension_builder)." June 08, 2020. https://extensions.typo3.org/extension/extension_builder.
+"Installing Extensions." TYPO3 Documentation. June 17, 2017. https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/ExtensionArchitecture/Installation/Index.html
+"Introduction." TYPO3 Documentation. January 28, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Introduction/Index.html#system-overview
+"Introduction." TYPO3 Documentation. April 01, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Introduction/Index.html
+"Introduction." TYPO3 Documentation. July 21, 2019. https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Introduction/Index.html
+"Introduction." TYPO3 Documentation. July 13, 2020. https://docs.typo3.org/c/typo3/cms-form/master/en-us/Introduction/Index.html
+Kott, Benjamin. "The Anatomy of TYPO3 Sitepackages." LinkedIn SlideShare. May 09, 2015. https://www.slideshare.net/benjaminkott/typo3-the-anatomy-of-sitepackages
+"Mail API." TYPO3 Documentation. June 18, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Mail/Index.html
+Mailhog. "Mailhog/MailHog." GitHub. https://github.com/mailhog/MailHog
+"More About File Mounts." TYPO3 Documentation. May 12, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/AccessControl/MoreAboutFileMounts/Index.html
+"PSR-15: HTTP Server Request Handlers - PHP-FIG." PHP. https://www.php-fig.org/psr/psr-15/
+"PSR-7: HTTP Message Interfaces - PHP-FIG." PHP. https://www.php-fig.org/psr/psr-7/
+"The Package in Detail." TYPO3 Documentation. June 22, 2020. https://docs.typo3.org/m/typo3/guide-installation/master/en-us/In-depth/ThePackageInDetail/Index.html
+"S/PKG/BLD." Kickstart Your TYPO3 Template Development - TYPO3 Sitepackage Builder. https://www.sitepackagebuilder.com/
+Schulmeister, Gernot. "Architecture & TYPO3." LinkedIn SlideShare. September 11, 2016. https://www.slideshare.net/GernotSchulmeister/architecture-typo3
+"Sitepackage Tutorial." TYPO3 Documentation. September 13, 2019. https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/
+"TCA Reference." TYPO3 Documentation. July 10, 2019. https://docs.typo3.org/m/typo3/reference-tca/master/en-us/Index.html
+"TSconfig Reference." TYPO3 Documentation. May 20, 2019. https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/Index.html
+"TYPO3 Explained." TYPO3 Documentation. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/singlehtml/#system-overview
+"TYPO3 Explained." TYPO3 Documentation. July 11, 2020. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Index.html
+"The TYPO3 Extbase Book-Interview with the Author." August 09, 2019. https://typo3.org/article/the-typo3-extbase-book-interview-with-the-author/.
+TYPO3. "TYPO3/Fluid." GitHub. https://github.com/TYPO3/Fluid
+"Templating Manual · Introduction." Fluid Powered TYPO3: Introduction. https://fluidtypo3.org/documentation/templating-manual/introduction.html
+"TypoScript Template Reference." TYPO3 Documentation. January 26, 2020. https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/Index.html
+"Using FAL." TYPO3 Documentation. May 12, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Fal/UsingFal/Index.html

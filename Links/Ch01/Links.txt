@@ -1,0 +1,30 @@
+“Case Study of an Online Publisher - Texere” n.d. https://b13.com/case-studies/the-science-of-compelling-content-texere
+"Coding Standards in TYPO3." SkillDisplay. https://www.skilldisplay.eu/skillpaths/cms-certified-developer-8-lts/skill/coding-standards-in-typo3/
+"Core Development." April 06, 2020. https://typo3.org/community/teams/typo3-development/
+"Getting Started Tutorial." TYPO3 Documentation. February 27, 2020. https://docs.typo3.org/typo3cms/GettingStartedTutorial/
+"Introduction." TYPO3 Documentation. April 01, 2019. https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Introduction/Index.html
+"Knowledge to Go with TYPO3." TYPO3. https://typo3.com/case-studies/universitaet-wien
+"Official TYPO3 Partner Finder: TYPO3 GmbH." TYPO3. https://typo3.com/services/find-a-typo3-partner
+"Open Source Definition." https://typo3.org/project/association/partnerships/open-source-definition/
+"OSS Watch." OSS Watch. http://oss-watch.ac.uk/resources/governancemodels
+"Program." TYPO3 Conference 2015 Amsterdam. https://t3con15eu.typo3.org/program-detail/talk/detail/reorganisation-of-the-blsv.html
+Schams, Michael. "TYPO3 CMS Certified Developer (English)." TYPO3 CMS Certified... by Michael Schams [PDF/iPad/Kindle]. June 18, 2016. https://leanpub.com/typo3certifieddeveloper-en
+Schams, Michael. "TYPO3 Extbase (English)." TYPO3 Extbase... by Michael Schams [Leanpub PDF/iPad/Kindle]. January 06, 2016. https://leanpub.com/typo3extbase-en
+"Service Level Agreements for TYPO3 Extensions." Coders.care. https://coders.care/blog/article/service-level-agreements-for-typo3-extensions/
+"Teams and Committees." November 13, 2019. https://typo3.org/community/teams/
+"The European Skill Verification Standard." SkillDisplay. https://www.skilldisplay.eu/
+"The TYPO3 Association."  June 23, 2020. https://typo3.org/project/association/
+“TUI: TYPO3 GmbH,” n.d. https://typo3.com/case-studies/tui
+"Tutorials and Guides." TYPO3 Documentation. April 22, 2020. https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html
+"TYPO3 Certification." https://typo3.org/certification/
+"TYPO3 CMS Development Roadmap." Development Roadmap for TYPO3 CMS. https://typo3.org/cms/roadmap/
+"TYPO3 Contribution Guide - Core Development." TYPO3 Documentation. March 22, 2020. https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Index.html
+"TYPO3 Core Development - Strategic Initiatives." https://typo3.org/community/teams/typo3-development/initiatives/
+"TYPO3 Events." https://typo3.org/community/events/typo3-sprint/all/
+"TYPO3 Extension Repository." https://extensions.typo3.org/
+"TYPO3 - Recommended Resources!" Resources. https://www.typo3book.com/resources
+"TYPO3 User Groups." https://typo3.org/community/meet/user-groups/
+“Universität Wien: TYPO3 GmbH,” n.d. https://typo3.com/case-studies/universitaet-wien
+"Welcome to the Official TYPO3 Documentation." TYPO3 Documentation. July 03, 2020. https://docs.typo3.org/
+"What Is the Ninety-Ninety Rule? - Definition from Techopedia." Techopedia.com. https://www.techopedia.com/definition/21014/ninety-ninety-rule
+"Writing Documentation." TYPO3 Documentation. April 24, 2020. https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/
